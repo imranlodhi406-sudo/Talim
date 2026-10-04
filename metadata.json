@@ -1,0 +1,6 @@
+{
+  "name": "TaleemGuard AI - Strict Study Gatekeeper & App Blocker",
+  "description": "AI-powered study gatekeeper that locks TikTok, Instagram, Facebook, Snapchat & Games until daily lessons and math notebook photos are recited and verified with 1-hour auto-relock, dual Mother/Father biometrics, and Islamic routine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

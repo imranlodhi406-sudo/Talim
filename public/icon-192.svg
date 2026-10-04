@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="50%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b1320" />
+      <stop offset="100%" stop-color="#05080f" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bgGrad)" />
+  <path d="M256 64 C350 110 400 130 400 240 C400 350 310 420 256 448 C202 420 112 350 112 240 C112 130 162 110 256 64 Z" fill="url(#shieldGrad)" />
+  <!-- Graduation cap icon inside shield -->
+  <path d="M256 160 L350 210 L256 260 L162 210 Z" fill="#ffffff" />
+  <path d="M196 235 V285 C196 305 220 320 256 320 C292 320 316 305 316 285 V235 L256 265 Z" fill="#e2e8f0" />
+  <!-- Padlock latch -->
+  <circle cx="256" cy="355" r="28" fill="#ffffff" />
+  <path d="M256 370 V390" stroke="#059669" stroke-width="8" stroke-linecap="round" />
+</svg>
